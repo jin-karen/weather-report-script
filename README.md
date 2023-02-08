@@ -6,3 +6,6 @@ The api_key variable, set equal to an empty string (on line 13), needs to be rep
 
 ## To Run:
 This Python script can be run on any shell with python3 installed. Just clone the repository and run the script in a shell using "python weather-report.py" or "python3 weather-report.py".
+
+## Screenshots:
+![Screenshot (286)](https://user-images.githubusercontent.com/102393842/217400226-be9bd418-be0a-4153-a829-ffb480c27f39.png)
